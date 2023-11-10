@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<businessEntity>
+  <name>WeatherService</name>
+  <description>Provides weather information</description>
+  
+  <bindingTemplate>
+    <accessPoint useType="endPoint" url="http://www.example.com/weather/service"/>
+  </bindingTemplate>
+</businessEntity>
